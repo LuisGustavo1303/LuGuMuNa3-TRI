@@ -1,3 +1,3 @@
 # LuGuMuNa3-TRI
 
-aula4
+rever aula 6.
