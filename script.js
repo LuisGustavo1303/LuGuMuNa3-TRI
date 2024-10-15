@@ -27,7 +27,7 @@ const perguntas = [
                 afirmacao: "afirmacao"
             },
             {
-                texto:"Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema."
+                texto:"Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
                 afirmacao: "afirmacao"
             }
 
@@ -43,7 +43,7 @@ const perguntas = [
                 afirmacao: "afirmacao"
             },
             {
-                texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores."
+                texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
                 afirmacao: "afirmacao"
             }
             
@@ -58,7 +58,7 @@ const perguntas = [
                 afirmacao: "afirmacao"
             },
             {
-                texto:"Criar uma imagem utilizando um gerador de imagem de IA."
+                texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
                 afirmacao: "afirmacao"
             }
             
