@@ -1,3 +1,3 @@
 # LuGuMuNa3-TRI
 
-rever aula 6.
+terminei aula 7
