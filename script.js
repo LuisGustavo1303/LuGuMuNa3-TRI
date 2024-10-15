@@ -11,7 +11,7 @@ const perguntas = [
             {
                 texto:"Isso é assustador!",
                 afirmacao: "afirmacao"
-            }
+            },
             {
                 texto:"Isso é maravilhoso!",
                 afirmacao: "afirmacao"
