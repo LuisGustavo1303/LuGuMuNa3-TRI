@@ -6,14 +6,14 @@
     --cor-texto: #D7F9FF;
   }
 
-body {
+  body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-}
+  }
 
 .caixa-principal{
     background-color: var(--cor-principal);
