@@ -1,3 +1,3 @@
 # LuGuMuNa3-TRI
 
-terminei aula 7
+terminei aula 10
